@@ -3,3 +3,5 @@ Portal mapowy ma na celu przedstawić rozkład głównych posterunków synoptycz
 # Dane
 Wykorzystano następujące dane:
 https://klimat.imgw.pl/pl/climate-normals/TSR_AVE
+# Link do strony
+https://maciejuu.github.io/Web-map-IMGW/
